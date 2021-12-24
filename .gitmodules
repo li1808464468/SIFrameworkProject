@@ -1,0 +1,3 @@
+[submodule "Assets/SIFramework"]
+	path = Assets/SIFramework
+	url = https://github.com/li1808464468/SIFramework.git
