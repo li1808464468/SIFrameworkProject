@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameLevelEntrance Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eba68db1354ca45f98e534e73654b574, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7e0450039c844bff874843a28568d60, type: 3}
+  - {fileID: 21300000, guid: d883d790ad60a4ef291c6ec71f7ab4ee, type: 3}
+  - {fileID: 21300000, guid: d41dbeb0f323647d3b4766461b015d74, type: 3}
+  - {fileID: 21300000, guid: 976b9ec0b50834cf59ab89a441b784be, type: 3}
+  - {fileID: 21300000, guid: f664c9e0180824239bd8d0cd770a5da3, type: 3}
+  - {fileID: 21300000, guid: d5ee500181f9f4960992c2a30a403a6c, type: 3}
+  - {fileID: 21300000, guid: 2e23aa11a43224fd391113775fe86844, type: 3}
+  - {fileID: 21300000, guid: 6482516114f2840768a25ed1c0cb94d2, type: 3}
+  - {fileID: 21300000, guid: c45153f18c2ef4b958dddd0d13bb437f, type: 3}
+  - {fileID: 21300000, guid: 3bf20b22f2f9e4c218c09cd11a4a908c, type: 3}
+  - {fileID: 21300000, guid: b6cc4bc23333548e0a3de6f03ac5b879, type: 3}
+  - {fileID: 21300000, guid: 03c3f773e1bb649ca8e7800e2738c464, type: 3}
+  - {fileID: 21300000, guid: 630271d39bba14461997ab9c011feb65, type: 3}
+  - {fileID: 21300000, guid: 4dee0654cd807474f83d8f865a5c4670, type: 3}
+  - {fileID: 21300000, guid: f8e4cc949eb07491e842b0070907cb04, type: 3}
+  - {fileID: 21300000, guid: 26dfdd7596cf440d19e4233979915b2b, type: 3}
+  - {fileID: 21300000, guid: b2e968b58357049fa94d3b20a14f9575, type: 3}
+  - {fileID: 21300000, guid: cf0c0b46e585045aeb5c11795f0f18e8, type: 3}
+  - {fileID: 21300000, guid: 883af9e669bed42bea10226d449d5bc3, type: 3}
+  - {fileID: 21300000, guid: e0576c072e46d4943a3b9789b01c353a, type: 3}
+  - {fileID: 21300000, guid: 7f64dc878dfac453bab0db1798b489fe, type: 3}
+  - {fileID: 21300000, guid: 882214d75f1fe4f34bc5338e8029201d, type: 3}
+  - {fileID: 21300000, guid: 5296d5f79fa244d54935a075cf521e34, type: 3}
+  - {fileID: 21300000, guid: de730e08564f647efb3f14af6c834750, type: 3}
+  - {fileID: 21300000, guid: b13660680005f4f17b661d5cb93ebcd7, type: 3}
+  - {fileID: 21300000, guid: 4cc9b8b8ede8547ccb69178e66d81b3c, type: 3}
+  - {fileID: 21300000, guid: 528dbcc97be644288ba114e752ed03c2, type: 3}
+  - {fileID: 21300000, guid: 03e2dc3a60d7e40d6a8e5c483767b7ad, type: 3}
+  - {fileID: 21300000, guid: 83a4a57aa3db948fc8013dd8466f372f, type: 3}
+  - {fileID: 21300000, guid: 8705656b694b7454da319129ab2cda67, type: 3}
+  - {fileID: 21300000, guid: 2af6e10c9a2184a968d837999b19b65c, type: 3}
+  - {fileID: 21300000, guid: a4caeb0cd751a404cbc9afe14e56030c, type: 3}
+  - {fileID: 21300000, guid: 6b4d9fec07dd84a9e9bbafe1a7572e05, type: 3}
+  - {fileID: 21300000, guid: 4d26641d07faa4f39841cfa8e3b4059a, type: 3}
+  - {fileID: 21300000, guid: f5abd73d9b7114993970c6cd4753098f, type: 3}
+  - {fileID: 21300000, guid: e14f11bd74c754a6c938f02325a9781e, type: 3}
+  - {fileID: 21300000, guid: eaec3f0e51bb84ea0832e7dcc4ebcdfe, type: 3}
+  - {fileID: 21300000, guid: a92f632e5bcb64ba98add6a6cdba8dce, type: 3}
+  - {fileID: 21300000, guid: 40623e3e51cc74d819c6765728429266, type: 3}
+  - {fileID: 21300000, guid: 3df66f9e45af740df9dcd22894627e10, type: 3}
+  - {fileID: 21300000, guid: 71a46caeb240447c0945b8ddaaba7b95, type: 3}
+  - {fileID: 21300000, guid: 5b9f35af8888a4bb7b2208c4e92bee5e, type: 3}
+  - {fileID: 21300000, guid: 326150cff3a60420e9f120a45e916faa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpecialChallenge
+  - OPEN
+  - img_game_button_yes4
+  - Nocorrectspacetoplacenow
+  - img_game_bonus
+  - img_game_ending_picture
+  - img_game_ad
+  - "Yes,I\u2019dloveto"
+  - img_game_target
+  - img_game_tv2
+  - img_game_button2
+  - img_game_button_no3
+  - img_game_zhuan
+  - img_game_button_again1
+  - img_challengefailed
+  - img_game_button1
+  - OPEN2
+  - DONE
+  - img_game_button_no4
+  - img_game_button_ad_bg
+  - DONE2
+  - Congratulations!
+  - img_level_exit_title
+  - img_game_picture_1
+  - img_game_later
+  - img_game_button_again2
+  - img_game_title_1
+  - yes
+  - img_game_button_again3
+  - img_game_later2
+  - img_game_button_yes3
+  - no
+  - img_game_picture
+  - img_game_bj3
+  - Fantastic
+  - img_game_tv
+  - img_game_button
+  - "No,Idon\u2019t"
+  - img_game_button_no1
+  - img_game_done_button
+  - img_game_button_no2
+  - img_game_hand
+  - img_game_bj2
+  m_Tag: GameLevelEntrance Sprite Atlas
+  m_IsVariant: 0

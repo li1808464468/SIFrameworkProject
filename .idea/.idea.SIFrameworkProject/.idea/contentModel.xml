@@ -5,6 +5,19 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AB_ComplexResources" t="Include">
+          <e p="Models" t="Include">
+            <e p="Player" t="Include">
+              <e p="Vampire-InGame" t="Include">
+                <e p="Animation_Frame2.txt" t="Include" />
+                <e p="AnimationFrame.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Shader" t="Include">
+            <e p="Curved.shader" t="Include" />
+          </e>
+        </e>
         <e p="SIFramework" t="Include">
           <e p="Core" t="Include">
             <e p="Audio" t="Include">
@@ -12,6 +25,7 @@
               <e p="SoundManager.cs" t="Include" />
             </e>
             <e p="Config" t="Include">
+              <e p="DelegateConfig.cs" t="Include" />
               <e p="TDMsgSpan.cs" t="Include" />
             </e>
             <e p="Data" t="Include">
@@ -76,8 +90,34 @@
               <e p="IHeapObject.cs" t="Include" />
             </e>
             <e p="Res" t="Include">
-              <e p="Res.cs" t="Include" />
-              <e p="ResManager.cs" t="Include" />
+              <e p="Addressable" t="Include">
+                <e p="Res.cs" t="Include" />
+                <e p="ResManager.cs" t="Include" />
+              </e>
+              <e p="AssetBundleFramework" t="Include">
+                <e p="ABManifestLoader.cs" t="Include" />
+                <e p="ABRelation.cs" t="Include" />
+                <e p="AssetBundleManager.cs" t="Include" />
+                <e p="AssetLoader.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="AddScriptInfo.cs" t="Include" />
+                  <e p="AutoRemoveAssetBundleLabel.cs" t="Include" />
+                  <e p="AutoSetAssetBundleLabel.cs" t="Include" />
+                  <e p="BuildAssetBundle.cs" t="Include" />
+                  <e p="DeleteAssetBundle.cs" t="Include" />
+                </e>
+                <e p="MultiABManager.cs" t="Include" />
+                <e p="SingleABLoader.cs" t="Include" />
+                <e p="Test" t="Include">
+                  <e p="TestAssetBundleManager.cs" t="Include" />
+                  <e p="TestComplex_AssetBundleManager.cs" t="Include" />
+                  <e p="TestSingleABLoader.cs" t="Include" />
+                </e>
+                <e p="Tools" t="Include">
+                  <e p="ABDefine.cs" t="Include" />
+                  <e p="PathTools.cs" t="Include" />
+                </e>
+              </e>
             </e>
             <e p="Singleton" t="Include">
               <e p="Singleton.cs" t="Include" />
@@ -89,8 +129,10 @@
               <e p="StateFactory.cs" t="Include" />
             </e>
             <e p="Tools" t="Include">
+              <e p="PathTools.cs" t="Include" />
               <e p="StringEncryption.cs" t="Include" />
               <e p="TDTools.cs" t="Include" />
+              <e p="TimeTools.cs" t="Include" />
             </e>
             <e p="UI" t="Include">
               <e p="Button" t="Include">

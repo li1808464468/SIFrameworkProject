@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6632170f-d085-4c82-83ba-10ae3980a72e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/ILRuntime.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/ILRuntime/ILRuntimeMgr.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/ILRuntime/ILRuntimeMgr.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Plugins/LitJson/LitJSON.csproj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/Res.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/Res.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/ResManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/ResManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,25 +19,257 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/ABManifestLoader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="-363">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
               <folding>
-                <marker date="1640331080247" expanded="true" signature="6:117" ph="..." />
-                <marker date="1640331080247" expanded="true" signature="189:3908" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="263:345" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="592:598" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="613:1121" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="943:973" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="1150:3904" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="1176:1238" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="1266:1331" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="1420:1471" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="2367:3723" ph="{...}" />
-                <marker date="1640331080247" expanded="true" signature="2439:2463" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="0:278" ph="/* 文件：ABManifestLoader.cs ... */" />
+                <marker date="1641818247833" expanded="false" signature="286:358" ph="..." />
+                <marker date="1641818247833" expanded="true" signature="381:4164" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="438:4162" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="879:962" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="897:952" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="972:1025" ph="/// 构造函数 ... " />
+                <marker date="1641818247833" expanded="true" signature="1060:1321" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="1331:1418" ph="/// 获得本类实例 ... " />
+                <marker date="1641818247833" expanded="true" signature="1472:1628" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="1507:1587" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="1638:1735" ph="/// 下载 Manifest 清单文件 ... " />
+                <marker date="1641818247833" expanded="true" signature="1778:2653" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="1836:2643" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="1909:2629" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="2069:2412" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="2412:2611" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="2663:2771" ph="/// 获取 AssetBundleManifest 系统实例 ... " />
+                <marker date="1641818247833" expanded="true" signature="2823:3339" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="2864:3161" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="2920:2997" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3018:3147" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3161:3303" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3349:3511" ph="/// 获取 AsssetBundleManifest(系统类)指定包名称的所有依赖项 ... " />
+                <marker date="1641818247833" expanded="true" signature="3570:3926" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3650:3742" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3759:3890" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="3936:3991" ph="/// 释放本类资源 ... " />
+                <marker date="1641818247833" expanded="true" signature="4021:4156" ph="{...}" />
+                <marker date="1641818247833" expanded="true" signature="4072:4146" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="129" column="84" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="84" />
+              <folding>
+                <marker date="1641818666067" expanded="true" signature="0:418" ph="/* 文件：AutoSetAssetBundleLabel.cs ... */" />
+                <marker date="1641818666067" expanded="false" signature="426:534" ph="..." />
+                <marker date="1641818666067" expanded="true" signature="557:6916" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="601:6903" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="620:675" ph="/// 设置AB包名 ... " />
+                <marker date="1641818666067" expanded="true" signature="768:2269" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="1462:2126" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="1493:1564" ph="/* 2.1:遍历本场景目录下所有的目录或者文件 ... */" />
+                <marker date="1641818666067" expanded="true" signature="1928:2042" ph="/* Debug.Log(&quot;tmpScenesDir = &quot;+ tmpScenesDir); ... */" />
+                <marker date="1641818666067" expanded="true" signature="2279:2523" ph="/// 递归判断判断是否是目录或文件 ... " />
+                <marker date="1641818666067" expanded="true" signature="2627:3731" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="2641:2791" ph="/* 调试信息 ... */" />
+                <marker date="1641818666067" expanded="true" signature="2839:2962" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="3257:3721" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="3398:3538" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="3562:3707" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="3741:3915" ph="/// 给文件打 Asset Bundle 标记 ... " />
+                <marker date="1641818666067" expanded="true" signature="3992:5422" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="4006:4187" ph="/* 调试信息 ... */" />
+                <marker date="1641818666067" expanded="true" signature="4449:4501" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="4939:5017" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="5163:5279" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="5296:5412" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="5432:5705" ph="/// 获取 AB 包的名称 ... " />
+                <marker date="1641818666067" expanded="true" signature="5779:6896" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="6274:6370" ph="/* 测试 ... */" />
+                <marker date="1641818666067" expanded="true" signature="6419:6698" ph="{...}" />
+                <marker date="1641818666067" expanded="true" signature="6520:6621" ph="/* 测试 ... */" />
+                <marker date="1641818666067" expanded="true" signature="6718:6854" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="111" column="84" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
+              <folding>
+                <marker date="1641818688183" expanded="true" signature="0:252" ph="/* 文件：AutoRemoveAssetBundleLabel.cs ... */" />
+                <marker date="1641818688183" expanded="false" signature="260:368" ph="..." />
+                <marker date="1641818688183" expanded="true" signature="390:4107" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="436:4105" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="540:1558" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="1169:1317" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="1568:1761" ph="/// 递归判断判断是否是目录或文件 ... " />
+                <marker date="1641818688183" expanded="true" signature="1846:2961" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="1869:2019" ph="/* 调试信息 ... */" />
+                <marker date="1641818688183" expanded="true" signature="2067:2194" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="2489:2951" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="2630:2763" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="2808:2937" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="2971:3096" ph="/// 给文件移除 Asset Bundle 标记 ... " />
+                <marker date="1641818688183" expanded="true" signature="3156:4099" ph="{...}" />
+                <marker date="1641818688183" expanded="true" signature="3179:3360" ph="/* 调试信息 ... */" />
+                <marker date="1641818688183" expanded="true" signature="3605:3657" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <folding>
+                <marker date="1641819436212" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
+                <marker date="1641819436212" expanded="false" signature="227:335" ph="..." />
+                <marker date="1641819436212" expanded="true" signature="358:1644" ph="{...}" />
+                <marker date="1641819436212" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
+                <marker date="1641819436212" expanded="true" signature="464:1642" ph="{...}" />
+                <marker date="1641819436212" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
+                <marker date="1641819436212" expanded="true" signature="650:1636" ph="{...}" />
+                <marker date="1641819436212" expanded="true" signature="1021:1109" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
+              <folding>
+                <marker date="1641819580377" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+                <marker date="1641819580377" expanded="false" signature="238:329" ph="..." />
+                <marker date="1641819580377" expanded="true" signature="352:2927" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="382:2914" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+                <marker date="1641819580377" expanded="true" signature="653:735" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+                <marker date="1641819580377" expanded="true" signature="938:1022" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+                <marker date="1641819580377" expanded="true" signature="1167:1588" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+                <marker date="1641819580377" expanded="true" signature="1732:2089" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+                <marker date="1641819580377" expanded="true" signature="2251:2655" ph="{...}" />
+                <marker date="1641819580377" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+                <marker date="1641819580377" expanded="true" signature="2804:2907" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAD1ACC5-FBA3-49A0-A8D8-E78BE26ED442/56/8a5ce4f9/Application.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Config/DelegateConfig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <marker date="1641816236838" expanded="false" signature="6:78" ph="..." />
+                <marker date="1641816236838" expanded="true" signature="101:214" ph="{...}" />
+                <marker date="1641816236838" expanded="true" signature="135:212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Singleton/Singleton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+              <folding>
+                <marker date="1640330154975" expanded="false" signature="6:57" ph="..." />
+                <marker date="1640330154975" expanded="true" signature="80:8360" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="114:158" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="234:829" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="369:653" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="395:643" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="694:744" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="791:823" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="872:1455" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="948:1449" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="1462:1555" ph="/// 属性singleton ... " />
+                <marker date="1640330154975" expanded="true" signature="1625:2140" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="1764:2044" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="1790:2034" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2084:2133" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2146:8357" ph="Mono" />
+                <marker date="1640330154975" expanded="true" signature="2274:2557" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2379:2447" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2486:2551" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2656:3990" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2734:3010" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2760:3000" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="2836:2951" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3057:3077" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3116:3605" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3179:3513" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3530:3595" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3716:3891" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="3934:3984" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="4036:7557" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="4184:5328" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="4402:4507" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="4659:4977" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="4779:4845" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5012:5248" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5440:5846" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5542:5793" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5680:5779" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5939:6291" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="5993:6050" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6150:6207" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6429:7551" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6508:6594" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6611:6822" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6725:6808" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6855:7334" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="6896:7320" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7013:7125" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7196:7302" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7367:7424" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7643:8334" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7719:7972" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7745:7962" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="7798:7913" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="8010:8328" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="8073:8176" ph="{...}" />
+                <marker date="1640330154975" expanded="true" signature="8193:8287" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,18 +280,65 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>bmFont</find>
+      <find>dispose</find>
+      <find>DelLoadComplete</find>
+      <find>ABFw</find>
+      <find>strAssetFilePath</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>SIFramework</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/SIFramework" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/Addressable/ResManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/UI/Button/ButtonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/MultiABManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/SingleABLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/StringEncryption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TimeTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/AssetLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TDTools.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/PathTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAD1ACC5-FBA3-49A0-A8D8-E78BE26ED442/56/8a5ce4f9/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/ABManifestLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/57/321ac541/FileSystemInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Config/DelegateConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Singleton/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TDTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TimeTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Tools/PathTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Editor/AssetBundle/AutoSetAssetBundleLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/Addressable/ResManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetBundleData.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/ResourcesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AsssetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Config/DelegateConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/MultiABManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/SingleABLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetBundleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/Editor/DeleteAssetBundle.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/Editor/AutoRemoveAssetBundleLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/ABManifestLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +362,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -97,14 +383,18 @@
               <item name="SIFramework" type="1045f7f1:UnityExplorerNode" />
               <item name="Core" type="1045f7f1:UnityExplorerNode" />
             </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="SIFramework" type="1045f7f1:UnityExplorerNode" />
+              <item name="Core" type="1045f7f1:UnityExplorerNode" />
+              <item name="Res" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
@@ -139,10 +429,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="81763">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="81763" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -157,12 +447,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640330340903</updated>
-      <workItem from="1640330346770" duration="795000" />
+      <workItem from="1640330346770" duration="1968000" />
+      <workItem from="1641801623064" duration="9150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795000" />
+    <option name="totallyTimeSpent" value="11118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,30 +468,30 @@
     <frame x="1440" y="25" width="1920" height="995" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="LuaCheck" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,17 +510,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/ILRuntime/ILRuntimeMgr.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/ILRuntime/ILRuntimeMgr.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Editor/BMFont/BMFontEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="228">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <marker date="1640331080247" expanded="true" signature="6:117" ph="..." />
             <marker date="1640331080247" expanded="true" signature="189:3908" ph="{...}" />
@@ -243,6 +528,502 @@
             <marker date="1640331080247" expanded="true" signature="1420:1471" ph="{...}" />
             <marker date="1640331080247" expanded="true" signature="2367:3723" ph="{...}" />
             <marker date="1640331080247" expanded="true" signature="2439:2463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/UI/Button/ButtonManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1640330154979" expanded="false" signature="6:165" ph="..." />
+            <marker date="1640330154979" expanded="true" signature="194:4842" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="288:4840" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="335:435" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="478:537" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="1135:1383" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="1271:1372" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="1546:1851" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="1918:3733" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="1959:2011" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="2051:2103" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="2190:2375" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="2524:2601" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="2726:3214" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="3415:3581" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="3636:3718" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="3798:4306" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="3839:3891" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="3984:4111" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="4198:4283" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="4347:4670" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="4568:4634" ph="{...}" />
+            <marker date="1640330154979" expanded="true" signature="4718:4834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/StringEncryption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1640330154978" expanded="false" signature="6:168" ph="..." />
+            <marker date="1640330154978" expanded="true" signature="196:2813" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="239:2811" ph="{...}" />
+            <marker date="1640330154978" expanded="false" signature="254:2805" ph="字符串加密解密（对称算法）" />
+            <marker date="1640330154978" expanded="true" signature="386:446" ph="/// 密匙 必须要是八个字符 ... " />
+            <marker date="1640330154978" expanded="true" signature="510:731" ph="/// DES加密字符串 ... " />
+            <marker date="1640330154978" expanded="true" signature="793:1622" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="819:1528" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="1559:1612" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="1632:1860" ph="/// DES解密字符串 ... " />
+            <marker date="1640330154978" expanded="true" signature="1922:2786" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="1948:2644" ph="{...}" />
+            <marker date="1640330154978" expanded="true" signature="2662:2776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TDTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1640331738772" expanded="true" signature="6:111" ph="..." />
+            <marker date="1640331738772" expanded="true" signature="140:4513" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="174:4511" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="189:330" ph="/// 获取字符串对应的唯一数字 ... " />
+            <marker date="1640331738772" expanded="true" signature="389:1064" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="502:742" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="1082:1277" ph="/// 将string 按照指定字符分割成 int 数组 ... " />
+            <marker date="1640331738772" expanded="true" signature="1361:1539" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="1593:1993" ph="/// 获取贝塞尔曲线参数 ... " />
+            <marker date="1640331738772" expanded="true" signature="2104:2520" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="2286:2482" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="2547:2721" ph="/// 获取B物体转换到A物体上的坐标 ... " />
+            <marker date="1640331738772" expanded="true" signature="2814:2957" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="2997:3171" ph="/// 两点之间的距离 x ,y 二维坐标 ... " />
+            <marker date="1640331738772" expanded="true" signature="3247:3392" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="3411:3574" ph="/// 获取两点角度 ... " />
+            <marker date="1640331738772" expanded="true" signature="3644:3794" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="3821:3953" ph="/// 求方差函数 ... " />
+            <marker date="1640331738772" expanded="true" signature="4016:4478" ph="{...}" />
+            <marker date="1640331738772" expanded="true" signature="4158:4443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/TimeTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1640331800650" expanded="true" signature="41:3508" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="77:3506" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="101:192" ph="/// 获取当前毫秒的时间戳 ... " />
+            <marker date="1640331800650" expanded="true" signature="242:350" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="377:473" ph="/// 获取距离下一天凌晨还有多少时间 ... " />
+            <marker date="1640331800650" expanded="true" signature="525:1159" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="1177:1316" ph="/// 距离传入时间还有多长时间 ... " />
+            <marker date="1640331800650" expanded="true" signature="1386:2001" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="2019:2151" ph="/// 检测是不是同一天 ... " />
+            <marker date="1640331800650" expanded="true" signature="2204:2703" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="2717:2851" ph="/// 检测是不是同一天 ... " />
+            <marker date="1640331800650" expanded="true" signature="2902:3500" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="3321:3465" ph="{...}" />
+            <marker date="1640331800650" expanded="true" signature="3381:3451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Tools/PathTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1641801684405" expanded="true" signature="6:78" ph="..." />
+            <marker date="1641801684405" expanded="true" signature="106:3391" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="135:3387" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="270:364" ph="/// 得到 AB 资源的输入目录 ... " />
+            <marker date="1641801684405" expanded="true" signature="415:488" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="499:648" ph="/// 获得 AB 包输出路径 ... " />
+            <marker date="1641801684405" expanded="true" signature="693:768" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="779:866" ph="/// 获得平台路径 ... " />
+            <marker date="1641801684405" expanded="true" signature="915:1640" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="1020:1585" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="1651:1738" ph="/// 获得平台名称 ... " />
+            <marker date="1641801684405" expanded="true" signature="1785:2491" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="1897:2436" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="2502:2601" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+            <marker date="1641801684405" expanded="true" signature="2655:3372" ph="{...}" />
+            <marker date="1641801684405" expanded="true" signature="2752:3323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/57/321ac541/FileSystemInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Editor/AssetBundle/AutoSetAssetBundleLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="130" column="24" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/Addressable/ResManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1641806514659" expanded="false" signature="6:180" ph="..." />
+            <marker date="1641806514659" expanded="true" signature="212:5988" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="219:277" ph="/// 基于Addressable加载资源 ... " />
+            <marker date="1641806514659" expanded="true" signature="376:5986" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="411:432" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="448:1207" ph="异步加载资源" />
+            <marker date="1641806514659" expanded="true" signature="471:668" ph="///  异步加载资源 ... " />
+            <marker date="1641806514659" expanded="true" signature="765:1188" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="892:1150" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="1217:2051" ph="异步实例化" />
+            <marker date="1641806514659" expanded="true" signature="1240:1565" ph="/// Async Instance ... " />
+            <marker date="1641806514659" expanded="true" signature="1764:2031" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="1935:1993" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="2065:2821" ph="根据图集加载图片" />
+            <marker date="1641806514659" expanded="true" signature="2091:2305" ph="/// AsyncLoadSpriteByAltas ... " />
+            <marker date="1641806514659" expanded="true" signature="2410:2802" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="2512:2791" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="2831:3724" ph="根据Label加载所有资源" />
+            <marker date="1641806514659" expanded="true" signature="2861:3139" ph="/// 根据Label加载所有资源 ... " />
+            <marker date="1641806514659" expanded="true" signature="3262:3705" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="3341:3395" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="3425:3693" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="3734:4832" ph="根据Label和Path进行组合标签加载" />
+            <marker date="1641806514659" expanded="true" signature="3771:4147" ph="/// 根据Label和Path进行组合标签加载 ... " />
+            <marker date="1641806514659" expanded="true" signature="4360:4813" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="4438:4492" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="4535:4801" ph="{...}" />
+            <marker date="1641806514659" expanded="false" signature="4843:5709" ph="卸载资源" />
+            <marker date="1641806514659" expanded="true" signature="4864:5008" ph="/// 卸载资源 ... " />
+            <marker date="1641806514659" expanded="true" signature="5054:5131" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="5200:5266" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="5319:5392" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="5458:5535" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="5613:5690" ph="{...}" />
+            <marker date="1641806514659" expanded="true" signature="5719:5844" ph="/* ##region 同步 ... */" />
+            <marker date="1641806514659" expanded="true" signature="5855:5980" ph="/* public GameObject Instance(string _path) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetBundleData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/ResourcesManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AsssetLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Config/DelegateConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <marker date="1641816236838" expanded="false" signature="6:78" ph="..." />
+            <marker date="1641816236838" expanded="true" signature="101:214" ph="{...}" />
+            <marker date="1641816236838" expanded="true" signature="135:212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/SingleABLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Singleton/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+          <folding>
+            <marker date="1640330154975" expanded="false" signature="6:57" ph="..." />
+            <marker date="1640330154975" expanded="true" signature="80:8360" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="114:158" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="234:829" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="369:653" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="395:643" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="694:744" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="791:823" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="872:1455" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="948:1449" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="1462:1555" ph="/// 属性singleton ... " />
+            <marker date="1640330154975" expanded="true" signature="1625:2140" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="1764:2044" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="1790:2034" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2084:2133" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2146:8357" ph="Mono" />
+            <marker date="1640330154975" expanded="true" signature="2274:2557" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2379:2447" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2486:2551" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2656:3990" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2734:3010" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2760:3000" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="2836:2951" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3057:3077" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3116:3605" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3179:3513" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3530:3595" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3716:3891" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="3934:3984" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="4036:7557" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="4184:5328" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="4402:4507" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="4659:4977" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="4779:4845" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5012:5248" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5440:5846" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5542:5793" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5680:5779" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5939:6291" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="5993:6050" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6150:6207" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6429:7551" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6508:6594" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6611:6822" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6725:6808" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6855:7334" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="6896:7320" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7013:7125" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7196:7302" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7367:7424" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7643:8334" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7719:7972" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7745:7962" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="7798:7913" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="8010:8328" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="8073:8176" ph="{...}" />
+            <marker date="1640330154975" expanded="true" signature="8193:8287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/Editor/DeleteAssetBundle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/AssetBundleManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2147">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/Editor/AutoSetAssetBundleLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="122" column="88" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/Editor/AutoRemoveAssetBundleLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="104" column="88" selection-start-line="104" selection-start-column="88" selection-end-line="104" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundle/MultiABManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-838">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/ABManifestLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-363">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <marker date="1641818247833" expanded="true" signature="0:278" ph="/* 文件：ABManifestLoader.cs ... */" />
+            <marker date="1641818247833" expanded="false" signature="286:358" ph="..." />
+            <marker date="1641818247833" expanded="true" signature="381:4164" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="438:4162" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="879:962" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="897:952" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="972:1025" ph="/// 构造函数 ... " />
+            <marker date="1641818247833" expanded="true" signature="1060:1321" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="1331:1418" ph="/// 获得本类实例 ... " />
+            <marker date="1641818247833" expanded="true" signature="1472:1628" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="1507:1587" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="1638:1735" ph="/// 下载 Manifest 清单文件 ... " />
+            <marker date="1641818247833" expanded="true" signature="1778:2653" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="1836:2643" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="1909:2629" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="2069:2412" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="2412:2611" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="2663:2771" ph="/// 获取 AssetBundleManifest 系统实例 ... " />
+            <marker date="1641818247833" expanded="true" signature="2823:3339" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="2864:3161" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="2920:2997" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3018:3147" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3161:3303" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3349:3511" ph="/// 获取 AsssetBundleManifest(系统类)指定包名称的所有依赖项 ... " />
+            <marker date="1641818247833" expanded="true" signature="3570:3926" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3650:3742" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3759:3890" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="3936:3991" ph="/// 释放本类资源 ... " />
+            <marker date="1641818247833" expanded="true" signature="4021:4156" ph="{...}" />
+            <marker date="1641818247833" expanded="true" signature="4072:4146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="111" column="84" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
+          <folding>
+            <marker date="1641818688183" expanded="true" signature="0:252" ph="/* 文件：AutoRemoveAssetBundleLabel.cs ... */" />
+            <marker date="1641818688183" expanded="false" signature="260:368" ph="..." />
+            <marker date="1641818688183" expanded="true" signature="390:4107" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="436:4105" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="540:1558" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1169:1317" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1568:1761" ph="/// 递归判断判断是否是目录或文件 ... " />
+            <marker date="1641818688183" expanded="true" signature="1846:2961" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1869:2019" ph="/* 调试信息 ... */" />
+            <marker date="1641818688183" expanded="true" signature="2067:2194" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2489:2951" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2630:2763" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2808:2937" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2971:3096" ph="/// 给文件移除 Asset Bundle 标记 ... " />
+            <marker date="1641818688183" expanded="true" signature="3156:4099" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="3179:3360" ph="/* 调试信息 ... */" />
+            <marker date="1641818688183" expanded="true" signature="3605:3657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="129" column="84" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="84" />
+          <folding>
+            <marker date="1641818666067" expanded="true" signature="0:418" ph="/* 文件：AutoSetAssetBundleLabel.cs ... */" />
+            <marker date="1641818666067" expanded="false" signature="426:534" ph="..." />
+            <marker date="1641818666067" expanded="true" signature="557:6916" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="601:6903" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="620:675" ph="/// 设置AB包名 ... " />
+            <marker date="1641818666067" expanded="true" signature="768:2269" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="1462:2126" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="1493:1564" ph="/* 2.1:遍历本场景目录下所有的目录或者文件 ... */" />
+            <marker date="1641818666067" expanded="true" signature="1928:2042" ph="/* Debug.Log(&quot;tmpScenesDir = &quot;+ tmpScenesDir); ... */" />
+            <marker date="1641818666067" expanded="true" signature="2279:2523" ph="/// 递归判断判断是否是目录或文件 ... " />
+            <marker date="1641818666067" expanded="true" signature="2627:3731" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="2641:2791" ph="/* 调试信息 ... */" />
+            <marker date="1641818666067" expanded="true" signature="2839:2962" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="3257:3721" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="3398:3538" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="3562:3707" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="3741:3915" ph="/// 给文件打 Asset Bundle 标记 ... " />
+            <marker date="1641818666067" expanded="true" signature="3992:5422" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="4006:4187" ph="/* 调试信息 ... */" />
+            <marker date="1641818666067" expanded="true" signature="4449:4501" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="4939:5017" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="5163:5279" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="5296:5412" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="5432:5705" ph="/// 获取 AB 包的名称 ... " />
+            <marker date="1641818666067" expanded="true" signature="5779:6896" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="6274:6370" ph="/* 测试 ... */" />
+            <marker date="1641818666067" expanded="true" signature="6419:6698" ph="{...}" />
+            <marker date="1641818666067" expanded="true" signature="6520:6621" ph="/* 测试 ... */" />
+            <marker date="1641818666067" expanded="true" signature="6718:6854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <marker date="1641819436212" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
+            <marker date="1641819436212" expanded="false" signature="227:335" ph="..." />
+            <marker date="1641819436212" expanded="true" signature="358:1644" ph="{...}" />
+            <marker date="1641819436212" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
+            <marker date="1641819436212" expanded="true" signature="464:1642" ph="{...}" />
+            <marker date="1641819436212" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
+            <marker date="1641819436212" expanded="true" signature="650:1636" ph="{...}" />
+            <marker date="1641819436212" expanded="true" signature="1021:1109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAD1ACC5-FBA3-49A0-A8D8-E78BE26ED442/56/8a5ce4f9/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <marker date="1641819580377" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+            <marker date="1641819580377" expanded="false" signature="238:329" ph="..." />
+            <marker date="1641819580377" expanded="true" signature="352:2927" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="382:2914" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+            <marker date="1641819580377" expanded="true" signature="653:735" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+            <marker date="1641819580377" expanded="true" signature="938:1022" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+            <marker date="1641819580377" expanded="true" signature="1167:1588" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+            <marker date="1641819580377" expanded="true" signature="1732:2089" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+            <marker date="1641819580377" expanded="true" signature="2251:2655" ph="{...}" />
+            <marker date="1641819580377" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+            <marker date="1641819580377" expanded="true" signature="2804:2907" ph="{...}" />
           </folding>
         </state>
       </provider>
