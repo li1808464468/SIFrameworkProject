@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6632170f-d085-4c82-83ba-10ae3980a72e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SIFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
+            <state relative-caret-position="1301">
               <caret line="129" column="84" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="84" />
               <folding>
                 <marker date="1641818666067" expanded="true" signature="0:418" ph="/* 文件：AutoSetAssetBundleLabel.cs ... */" />
@@ -93,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="111" column="84" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
+            <state relative-caret-position="209">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <marker date="1641818688183" expanded="true" signature="0:252" ph="/* 文件：AutoRemoveAssetBundleLabel.cs ... */" />
                 <marker date="1641818688183" expanded="false" signature="260:368" ph="..." />
@@ -124,44 +128,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="156">
+              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
               <folding>
-                <marker date="1641819436212" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
-                <marker date="1641819436212" expanded="false" signature="227:335" ph="..." />
-                <marker date="1641819436212" expanded="true" signature="358:1644" ph="{...}" />
-                <marker date="1641819436212" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
-                <marker date="1641819436212" expanded="true" signature="464:1642" ph="{...}" />
-                <marker date="1641819436212" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
-                <marker date="1641819436212" expanded="true" signature="650:1636" ph="{...}" />
-                <marker date="1641819436212" expanded="true" signature="1021:1109" ph="{...}" />
+                <marker date="1641880753687" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
+                <marker date="1641880753687" expanded="false" signature="227:335" ph="..." />
+                <marker date="1641880753687" expanded="true" signature="358:1664" ph="{...}" />
+                <marker date="1641880753687" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
+                <marker date="1641880753687" expanded="true" signature="464:1662" ph="{...}" />
+                <marker date="1641880753687" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
+                <marker date="1641880753687" expanded="true" signature="650:1656" ph="{...}" />
+                <marker date="1641880753687" expanded="true" signature="1021:1109" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+            <state relative-caret-position="607">
+              <caret line="122" column="24" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
               <folding>
-                <marker date="1641868603742" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
-                <marker date="1641868603742" expanded="false" signature="238:329" ph="..." />
-                <marker date="1641868603742" expanded="true" signature="352:2935" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="382:2922" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
-                <marker date="1641868603742" expanded="true" signature="653:735" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
-                <marker date="1641868603742" expanded="true" signature="938:1022" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
-                <marker date="1641868603742" expanded="true" signature="1167:1588" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
-                <marker date="1641868603742" expanded="true" signature="1732:2089" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
-                <marker date="1641868603742" expanded="true" signature="2251:2655" ph="{...}" />
-                <marker date="1641868603742" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
-                <marker date="1641868603742" expanded="true" signature="2804:2907" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+                <marker date="1641879916743" expanded="false" signature="238:329" ph="..." />
+                <marker date="1641879916743" expanded="true" signature="352:2985" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="382:2972" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+                <marker date="1641879916743" expanded="true" signature="653:735" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+                <marker date="1641879916743" expanded="true" signature="938:1022" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+                <marker date="1641879916743" expanded="true" signature="1167:1588" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+                <marker date="1641879916743" expanded="true" signature="1732:2089" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+                <marker date="1641879916743" expanded="true" signature="2251:2655" ph="{...}" />
+                <marker date="1641879916743" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+                <marker date="1641879916743" expanded="true" signature="2804:2957" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -179,8 +183,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="219">
+              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -329,8 +333,8 @@
         <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/ABManifestLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs" />
         <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs" />
-        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" />
         <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs" />
       </list>
     </option>
   </component>
@@ -440,12 +444,12 @@
       <option name="presentableId" value="Default" />
       <updated>1640330340903</updated>
       <workItem from="1640330346770" duration="1968000" />
-      <workItem from="1641801623064" duration="9464000" />
+      <workItem from="1641801623064" duration="11189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11432000" />
+    <option name="totallyTimeSpent" value="13157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,13 +464,13 @@
     <frame x="1440" y="25" width="1920" height="995" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39910814" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -900,42 +904,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAD1ACC5-FBA3-49A0-A8D8-E78BE26ED442/56/8a5ce4f9/Application.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="111" column="84" selection-start-line="111" selection-start-column="84" selection-end-line="111" selection-end-column="84" />
-          <folding>
-            <marker date="1641818688183" expanded="true" signature="0:252" ph="/* 文件：AutoRemoveAssetBundleLabel.cs ... */" />
-            <marker date="1641818688183" expanded="false" signature="260:368" ph="..." />
-            <marker date="1641818688183" expanded="true" signature="390:4107" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="436:4105" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="540:1558" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="1169:1317" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="1568:1761" ph="/// 递归判断判断是否是目录或文件 ... " />
-            <marker date="1641818688183" expanded="true" signature="1846:2961" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="1869:2019" ph="/* 调试信息 ... */" />
-            <marker date="1641818688183" expanded="true" signature="2067:2194" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="2489:2951" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="2630:2763" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="2808:2937" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="2971:3096" ph="/// 给文件移除 Asset Bundle 标记 ... " />
-            <marker date="1641818688183" expanded="true" signature="3156:4099" ph="{...}" />
-            <marker date="1641818688183" expanded="true" signature="3179:3360" ph="/* 调试信息 ... */" />
-            <marker date="1641818688183" expanded="true" signature="3605:3657" ph="{...}" />
-          </folding>
+        <state relative-caret-position="159">
+          <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="607">
+          <caret line="122" column="24" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
+          <folding>
+            <marker date="1641879916743" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+            <marker date="1641879916743" expanded="false" signature="238:329" ph="..." />
+            <marker date="1641879916743" expanded="true" signature="352:2985" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="382:2972" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+            <marker date="1641879916743" expanded="true" signature="653:735" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+            <marker date="1641879916743" expanded="true" signature="938:1022" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+            <marker date="1641879916743" expanded="true" signature="1167:1588" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+            <marker date="1641879916743" expanded="true" signature="1732:2089" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+            <marker date="1641879916743" expanded="true" signature="2251:2655" ph="{...}" />
+            <marker date="1641879916743" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+            <marker date="1641879916743" expanded="true" signature="2804:2957" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoSetAssetBundleLabel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
+        <state relative-caret-position="1301">
           <caret line="129" column="84" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="84" />
           <folding>
             <marker date="1641818666067" expanded="true" signature="0:418" ph="/* 文件：AutoSetAssetBundleLabel.cs ... */" />
@@ -971,51 +974,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/321A5260-08C9-4688-AB60-7B10259188F0/c2/399005a6/BuildAssetBundleOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/BuildAssetBundle.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="156">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
           <folding>
-            <marker date="1641819436212" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
-            <marker date="1641819436212" expanded="false" signature="227:335" ph="..." />
-            <marker date="1641819436212" expanded="true" signature="358:1644" ph="{...}" />
-            <marker date="1641819436212" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
-            <marker date="1641819436212" expanded="true" signature="464:1642" ph="{...}" />
-            <marker date="1641819436212" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
-            <marker date="1641819436212" expanded="true" signature="650:1636" ph="{...}" />
-            <marker date="1641819436212" expanded="true" signature="1021:1109" ph="{...}" />
+            <marker date="1641880753687" expanded="true" signature="0:219" ph="/* 文件：BuildAssetBundle.cs ... */" />
+            <marker date="1641880753687" expanded="false" signature="227:335" ph="..." />
+            <marker date="1641880753687" expanded="true" signature="358:1664" ph="{...}" />
+            <marker date="1641880753687" expanded="true" signature="373:430" ph="/// AssetBundle 打包工具 ... " />
+            <marker date="1641880753687" expanded="true" signature="464:1662" ph="{...}" />
+            <marker date="1641880753687" expanded="true" signature="479:550" ph="/// 打包生成所有的AssetBundles（包） ... " />
+            <marker date="1641880753687" expanded="true" signature="650:1656" ph="{...}" />
+            <marker date="1641880753687" expanded="true" signature="1021:1109" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DAD1ACC5-FBA3-49A0-A8D8-E78BE26ED442/56/8a5ce4f9/Application.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Editor/AutoRemoveAssetBundleLabel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="258" column="32" selection-start-line="258" selection-start-column="32" selection-end-line="258" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+        <state relative-caret-position="209">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <marker date="1641868603742" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
-            <marker date="1641868603742" expanded="false" signature="238:329" ph="..." />
-            <marker date="1641868603742" expanded="true" signature="352:2935" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="382:2922" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
-            <marker date="1641868603742" expanded="true" signature="653:735" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
-            <marker date="1641868603742" expanded="true" signature="938:1022" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
-            <marker date="1641868603742" expanded="true" signature="1167:1588" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
-            <marker date="1641868603742" expanded="true" signature="1732:2089" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
-            <marker date="1641868603742" expanded="true" signature="2251:2655" ph="{...}" />
-            <marker date="1641868603742" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
-            <marker date="1641868603742" expanded="true" signature="2804:2907" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="0:252" ph="/* 文件：AutoRemoveAssetBundleLabel.cs ... */" />
+            <marker date="1641818688183" expanded="false" signature="260:368" ph="..." />
+            <marker date="1641818688183" expanded="true" signature="390:4107" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="436:4105" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="540:1558" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1169:1317" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1568:1761" ph="/// 递归判断判断是否是目录或文件 ... " />
+            <marker date="1641818688183" expanded="true" signature="1846:2961" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="1869:2019" ph="/* 调试信息 ... */" />
+            <marker date="1641818688183" expanded="true" signature="2067:2194" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2489:2951" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2630:2763" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2808:2937" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="2971:3096" ph="/// 给文件移除 Asset Bundle 标记 ... " />
+            <marker date="1641818688183" expanded="true" signature="3156:4099" ph="{...}" />
+            <marker date="1641818688183" expanded="true" signature="3179:3360" ph="/* 调试信息 ... */" />
+            <marker date="1641818688183" expanded="true" signature="3605:3657" ph="{...}" />
           </folding>
         </state>
       </provider>

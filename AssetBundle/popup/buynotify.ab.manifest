@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2543991484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e1a920c442b0c04b7b64c23edced499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d614ba2bf78fe185c64b512c1591e5d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/Popup/buyNotify/collect.png
+- Assets/AB_Resources/Popup/buyNotify/BuyNotify Sprite Atlas.spriteatlas
+- Assets/AB_Resources/Popup/buyNotify/img_game_button.png
+- Assets/AB_Resources/Popup/buyNotify/img_game_3.png
+- Assets/AB_Resources/Popup/buyNotify/img_game_2.png
+- Assets/AB_Resources/Popup/buyNotify/img_game_1.png
+Dependencies: []

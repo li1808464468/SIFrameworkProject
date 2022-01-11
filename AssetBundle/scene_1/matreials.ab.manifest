@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3425907382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 356bfaf2f1bf85629be140c846f8286a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/Scene_1/Matreials/Material.mat
+Dependencies:
+- /Users/haitao.li/Desktop/git/SIFrameworkProject/AssetBundle/scene_1/testures.ab

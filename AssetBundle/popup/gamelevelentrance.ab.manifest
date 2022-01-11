@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2612529794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f106a41a10b70faa9d91584a465d3b76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d614ba2bf78fe185c64b512c1591e5d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/Popup/gameLevelEntrance/SpecialChallenge.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/OPEN.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_yes4.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/Nocorrectspacetoplacenow.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_bonus.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_ending_picture.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_ad.png
+- "Assets/AB_Resources/Popup/gameLevelEntrance/Yes,I\u2019dloveto.png"
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_target.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_tv2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_no3.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_zhuan.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_again1.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_challengefailed.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button1.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/OPEN2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/DONE.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_no4.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_ad_bg.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/DONE2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/Congratulations!.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_level_exit_title.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_picture_1.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_later.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_again2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_title_1.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/yes.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_again3.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_later2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_yes3.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/no.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_picture.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_bj3.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/GameLevelEntrance Sprite Atlas.spriteatlas
+- Assets/AB_Resources/Popup/gameLevelEntrance/Fantastic.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_tv.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button.png
+- "Assets/AB_Resources/Popup/gameLevelEntrance/No,Idon\u2019t.png"
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_no1.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_done_button.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_button_no2.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_hand.png
+- Assets/AB_Resources/Popup/gameLevelEntrance/img_game_bj2.png
+Dependencies: []

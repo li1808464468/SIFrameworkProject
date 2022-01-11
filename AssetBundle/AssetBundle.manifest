@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2119241896
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: popup/buynotify.ab
+      Dependencies: {}
+    Info_1:
+      Name: popup/collectionpopup.ab
+      Dependencies: {}
+    Info_2:
+      Name: popup/gamelevelentrance.ab
+      Dependencies: {}
+    Info_3:
+      Name: scene_1/matreials.ab
+      Dependencies:
+        Dependency_0: scene_1/testures.ab
+    Info_4:
+      Name: scene_1/prefabs.ab
+      Dependencies:
+        Dependency_0: scene_1/matreials.ab
+    Info_5:
+      Name: scene_1/testures.ab
+      Dependencies: {}
+    Info_6:
+      Name: scene_1/scene_1.u3d
+      Dependencies: {}

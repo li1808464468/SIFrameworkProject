@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1660024427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38047ae86f0b7bc8c60f966f6f3bc65d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d614ba2bf78fe185c64b512c1591e5d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/Popup/collectionPopup/img_game_bg2.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_button2.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_yes.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_bg3.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_picture2.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_picture1.png
+- Assets/AB_Resources/Popup/collectionPopup/Collection.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_box.png
+- Assets/AB_Resources/Popup/collectionPopup/collection Sprite Atlas.spriteatlas
+- Assets/AB_Resources/Popup/collectionPopup/img_game_button1.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_bg4.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_play2.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_continue2.png
+- Assets/AB_Resources/Popup/collectionPopup/no/img_game_2.png
+- Assets/AB_Resources/Popup/collectionPopup/Clearblocks.png
+- Assets/AB_Resources/Popup/collectionPopup/reward.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_bg.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_continue1.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_play1.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_title.png
+- Assets/AB_Resources/Popup/collectionPopup/img_game_1.png
+Dependencies: []
