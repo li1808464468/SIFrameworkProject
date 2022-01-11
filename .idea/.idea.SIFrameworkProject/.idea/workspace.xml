@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6632170f-d085-4c82-83ba-10ae3980a72e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SIFrameworkProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/Res.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/Res.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/ResManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/ResManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,25 +143,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="206">
+              <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
               <folding>
-                <marker date="1641819580377" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
-                <marker date="1641819580377" expanded="false" signature="238:329" ph="..." />
-                <marker date="1641819580377" expanded="true" signature="352:2927" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="382:2914" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
-                <marker date="1641819580377" expanded="true" signature="653:735" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
-                <marker date="1641819580377" expanded="true" signature="938:1022" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
-                <marker date="1641819580377" expanded="true" signature="1167:1588" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
-                <marker date="1641819580377" expanded="true" signature="1732:2089" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
-                <marker date="1641819580377" expanded="true" signature="2251:2655" ph="{...}" />
-                <marker date="1641819580377" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
-                <marker date="1641819580377" expanded="true" signature="2804:2907" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+                <marker date="1641868603742" expanded="false" signature="238:329" ph="..." />
+                <marker date="1641868603742" expanded="true" signature="352:2935" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="382:2922" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+                <marker date="1641868603742" expanded="true" signature="653:735" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+                <marker date="1641868603742" expanded="true" signature="938:1022" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+                <marker date="1641868603742" expanded="true" signature="1167:1588" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+                <marker date="1641868603742" expanded="true" signature="1732:2089" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+                <marker date="1641868603742" expanded="true" signature="2251:2655" ph="{...}" />
+                <marker date="1641868603742" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+                <marker date="1641868603742" expanded="true" signature="2804:2907" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -448,12 +440,12 @@
       <option name="presentableId" value="Default" />
       <updated>1640330340903</updated>
       <workItem from="1640330346770" duration="1968000" />
-      <workItem from="1641801623064" duration="9150000" />
+      <workItem from="1641801623064" duration="9464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11118000" />
+    <option name="totallyTimeSpent" value="11432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1005,25 +997,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SIFramework/Core/Res/AssetBundleFramework/Tools/PathTools.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="206">
+          <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
           <folding>
-            <marker date="1641819580377" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
-            <marker date="1641819580377" expanded="false" signature="238:329" ph="..." />
-            <marker date="1641819580377" expanded="true" signature="352:2927" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="382:2914" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
-            <marker date="1641819580377" expanded="true" signature="653:735" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
-            <marker date="1641819580377" expanded="true" signature="938:1022" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
-            <marker date="1641819580377" expanded="true" signature="1167:1588" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
-            <marker date="1641819580377" expanded="true" signature="1732:2089" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
-            <marker date="1641819580377" expanded="true" signature="2251:2655" ph="{...}" />
-            <marker date="1641819580377" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
-            <marker date="1641819580377" expanded="true" signature="2804:2907" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="0:230" ph="/* 文件：PathTools.cs ... */" />
+            <marker date="1641868603742" expanded="false" signature="238:329" ph="..." />
+            <marker date="1641868603742" expanded="true" signature="352:2935" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="382:2922" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="509:603" ph="/// 得到 AB 资源的输入目录 ... " />
+            <marker date="1641868603742" expanded="true" signature="653:735" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="745:894" ph="/// 获得 AB 包输出路径 ... " />
+            <marker date="1641868603742" expanded="true" signature="938:1022" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="1032:1119" ph="/// 获得平台路径 ... " />
+            <marker date="1641868603742" expanded="true" signature="1167:1588" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="1598:1685" ph="/// 获得平台名称 ... " />
+            <marker date="1641868603742" expanded="true" signature="1732:2089" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="2099:2198" ph="/// 返回 WWW 下载 AB 包加载路径 ... " />
+            <marker date="1641868603742" expanded="true" signature="2251:2655" ph="{...}" />
+            <marker date="1641868603742" expanded="true" signature="2666:2763" ph="/// 生成AssetBundle的路径 ... " />
+            <marker date="1641868603742" expanded="true" signature="2804:2907" ph="{...}" />
           </folding>
         </state>
       </provider>
