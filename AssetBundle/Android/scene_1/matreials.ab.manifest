@@ -18,4 +18,4 @@ ClassTypes:
 Assets:
 - Assets/AB_Resources/Scene_1/Matreials/Material.mat
 Dependencies:
-- /Users/haitao.li/Desktop/git/SIFrameworkProject/AssetBundle/scene_1/testures.ab
+- /Users/haitao.li/Desktop/git/SIFrameworkProject/AssetBundle/Android/scene_1/testures.ab

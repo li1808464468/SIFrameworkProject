@@ -18,6 +18,9 @@
             <e p="Curved.shader" t="Include" />
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="TestLitJson.cs" t="Include" />
+        </e>
         <e p="SIFramework" t="Include">
           <e p="Core" t="Include">
             <e p="Audio" t="Include">
@@ -31,6 +34,7 @@
             <e p="Data" t="Include">
               <e p="AbstractDBModel.cs" t="Include" />
               <e p="AbstractEntity.cs" t="Include" />
+              <e p="LitJsonTools.cs" t="Include" />
             </e>
             <e p="EventSystem" t="Include">
               <e p="Callback.cs" t="Include" />
@@ -98,12 +102,13 @@
                 <e p="ABManifestLoader.cs" t="Include" />
                 <e p="ABRelation.cs" t="Include" />
                 <e p="AssetBundleManager.cs" t="Include" />
+                <e p="AssetCheckMaker.cs" t="Include" />
                 <e p="AssetLoader.cs" t="Include" />
                 <e p="Editor" t="Include">
-                  <e p="AddScriptInfo.cs" t="Include" />
                   <e p="AutoRemoveAssetBundleLabel.cs" t="Include" />
                   <e p="AutoSetAssetBundleLabel.cs" t="Include" />
                   <e p="BuildAssetBundle.cs" t="Include" />
+                  <e p="BuildScript.cs" t="Include" />
                   <e p="DeleteAssetBundle.cs" t="Include" />
                 </e>
                 <e p="MultiABManager.cs" t="Include" />
@@ -115,7 +120,7 @@
                 </e>
                 <e p="Tools" t="Include">
                   <e p="ABDefine.cs" t="Include" />
-                  <e p="PathTools.cs" t="Include" />
+                  <e p="AssetMD5.cs" t="Include" />
                 </e>
               </e>
             </e>
@@ -129,8 +134,11 @@
               <e p="StateFactory.cs" t="Include" />
             </e>
             <e p="Tools" t="Include">
+              <e p="FileTools.cs" t="Include" />
+              <e p="LOGTools.cs" t="Include" />
               <e p="PathTools.cs" t="Include" />
               <e p="StringEncryption.cs" t="Include" />
+              <e p="StringTools.cs" t="Include" />
               <e p="TDTools.cs" t="Include" />
               <e p="TimeTools.cs" t="Include" />
             </e>
@@ -157,6 +165,9 @@
             <e p="FrameworkEditor.cs" t="Include" />
             <e p="TDUI" t="Include">
               <e p="TDUI.cs" t="Include" />
+            </e>
+            <e p="Tools" t="Include">
+              <e p="AddScriptInfo.cs" t="Include" />
             </e>
           </e>
           <e p="Plugins" t="Include">
